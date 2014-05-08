@@ -1,0 +1,10 @@
+// v1
+
+//A.  Cover
+//The Portfolio should be bound in a cover and should have a label stating:
+//1.  Title of Portfolio
+//2.  Name of Employer
+//3.  Current Date / Dates of  Work Term
+//4.  Student’s Name
+//5.  Name of College
+//6.  Submitted To
